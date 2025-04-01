@@ -74,10 +74,8 @@ Name: Alice, Age: 21, Major: Computer Science, GPA: 3.8
 Name: Charlie, Age: 20, Major: Physics, GPA: 3.9
 Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
 ```
-![Alt text describing the screenshot](![yaml-screenshot 1](https://github.com/user-attachments/assets/5555639c-6cc6-4b83-a2ec-b34530f79ee7)
-)
-![Alt text describing the screenshot](![yaml-screenshot-2](https://github.com/user-attachments/assets/03c848cf-b947-44d8-9f65-c5da821f924f)
-)
+![Alt text describing the screenshot](![yaml-screenshot 1](https://github.com/user-attachments/assets/5555639c-6cc6-4b83-a2ec-b34530f79ee7))
+![Alt text describing the screenshot](![yaml-screenshot-2](https://github.com/user-attachments/assets/03c848cf-b947-44d8-9f65-c5da821f924f))
 
 ## Customization
 
